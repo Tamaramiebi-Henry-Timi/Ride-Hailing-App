@@ -24,3 +24,6 @@ This repository contains the UML Use Case Diagram and documentation for a ride-h
   - Manage Users
   - Monitor Rides
   - Generate Reports
+
+## Diagram
+The UML Use Case Diagram is in the "/diagram" folder
